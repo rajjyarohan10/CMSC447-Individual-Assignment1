@@ -3,9 +3,13 @@
 ## Student Information
 - **Name:** Rajjya Rohan Paudyal
 - **UMBC ID:** SR30095
+- **Email:** rajjyap1@umbc.edu
 
 ## Introduction
 In this individual project for CMSC 447, I was tasked with developing a full-stack application utilizing Flask for the backend and React for the frontend. The goal was to create an application that could manage students, instructors, and courses effectively. Despite putting in diligent effort, I encountered several challenges that hindered the complete integration of the frontend and backend.
+
+## Database Design (E-R Diagram)
+![E-R Diagram](ER-diagram.jpg)
 
 ## The Backend - Flask
 The development of the backend in Flask involved defining models with SQLAlchemy to represent students, instructors, and courses, and their respective relationships. The APIs for CRUD operations were established, but an error arose during the testing phase.
@@ -29,4 +33,7 @@ This project showcased both the challenges and learning opportunities inherent i
 I am optimistic about the learning journey ahead. Each challenge is a stepping stone towards enhanced understanding and skill development. Future projects will benefit from the lessons learned here, and the continuous journey of learning and mastery is viewed with anticipation and enthusiasm.
 
 ## Frontend Screenshot
-![Frontend Screenshot](/mnt/r/UMBC/Senior Year/Fall 23/CMSC 447/Individual Assignment/myapp/frontend/frontend_screenshot.png)
+![Frontend Screenshot](myapp/frontend/frontend_screenshot.png)
+
+## VSCode Workspace
+![VSCode-Workspace](myapp/frontend/VsCode_screenshot.png)
